@@ -1,4 +1,4 @@
-def reverse_each_word(string)
+def reverse_each_word_with_each(string)
   original_array = string.split(" ")
   return_array = []
   
@@ -8,4 +8,6 @@ def reverse_each_word(string)
   return return_array.join(" ")
 end
 
-def 
+def reverse_each_word(string)
+  
+end
